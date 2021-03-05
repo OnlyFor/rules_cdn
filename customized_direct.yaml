@@ -8,6 +8,7 @@ payload:
   - DOMAIN-SUFFIX,azureedge.net
   # windows
   - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,windows.com
   - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft.net
   - DOMAIN-SUFFIX,windowsupdate.com
