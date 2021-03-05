@@ -16,3 +16,12 @@ payload:
   - PROCESS-NAME,com.android.vending
   - PROCESS-NAME,com.android.providers.downloads
   - PROCESS-NAME,com.android.providers.downloads.ui
+  # ip check
+  - DOMAIN-SUFFIX,myip.com
+  - DOMAIN-SUFFIX,ipv6-test.com
+  - DOMAIN-SUFFIX,test-ipv6.com
+  - DOMAIN-SUFFIX,iplocation.net
+  - DOMAIN-SUFFIX,whatismyip.com
+  - DOMAIN-SUFFIX,whatismyip.host
+  - DOMAIN-SUFFIX,ip2location.com
+  - DOMAIN-SUFFIX,whatismyipaddress.com

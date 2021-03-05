@@ -2,10 +2,5 @@ payload:
   # 自定义 proxy （追加补充）
   # 追加国外vps的ip使用ssh/sftp的端口代理
   - DST-PORT,22,PROXY
-  # ip check
-  - DOMAIN-KEYWORD,myip,PROXY
-  - DOMAIN-KEYWORD,ipv6,PROXY
-  - DOMAIN-KEYWORD,iplocation,PROXY
-  - DOMAIN-KEYWORD,ip2location,PROXY
   # 追加speedtest一系列测速域名
   - DOMAIN-KEYWORD,speedtest,PROXY
