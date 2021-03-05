@@ -1,0 +1,18 @@
+payload:
+  # reportlab
+  - DOMAIN-SUFFIX,reportlab.com
+  # fast & speedtest
+  - DOMAIN-SUFFIX,fast.com
+  - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN-SUFFIX,ooklaserver.net
+  - DOMAIN-SUFFIX,speed.cloudflare.com
+  # adguard
+  - DOMAIN-KEYWORD,adguard
+  # cryptomator
+  - DOMAIN-KEYWORD,cryptomator
+  # inoreader
+  - DOMAIN-SUFFIX,inoreader.com
+  # google play
+  - PROCESS-NAME,com.android.vending
+  - PROCESS-NAME,com.android.providers.downloads
+  - PROCESS-NAME,com.android.providers.downloads.ui

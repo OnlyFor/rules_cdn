@@ -1,0 +1,20 @@
+payload:
+  # bing & microsoft
+  - DOMAIN-SUFFIX,bing.net
+  - DOMAIN-SUFFIX,bing.com
+  - DOMAIN-SUFFIX,live.com
+  - DOMAIN-SUFFIX,msedge.net
+  - DOMAIN-SUFFIX,xboxlive.com
+  - DOMAIN-SUFFIX,azureedge.net
+  # windows
+  - DOMAIN-SUFFIX,windows.net
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,microsoft.net
+  - DOMAIN-SUFFIX,windowsupdate.com
+  # lenovo
+  - DOMAIN-SUFFIX,lenovo.com
+  # Firefox & Mozilla
+  - DOMAIN-SUFFIX,firefox.com
+  - DOMAIN-SUFFIX,mozilla.com
+  - DOMAIN-SUFFIX,mozilla.org
+  - DOMAIN-SUFFIX,mozilla.net
