@@ -1,4 +1,8 @@
 payload:
+  # sublime text
+  - DOMAIN-SUFFIX,sublimehq.com
+  - DOMAIN-SUFFIX,sublimetext.com
+  - DOMAIN-SUFFIX,packagecontrol.io
   # reportlab
   - DOMAIN-SUFFIX,reportlab.com
   # fast & speedtest
