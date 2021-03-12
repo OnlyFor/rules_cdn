@@ -1,4 +1,8 @@
 payload:
+  # Backblaze
+  - DOMAIN-SUFFIX,rclone.org
+  - DOMAIN-SUFFIX,backblaze.com
+  - DOMAIN-SUFFIX,backblazeb2.com
   # sublime text
   - DOMAIN-SUFFIX,sublimehq.com
   - DOMAIN-SUFFIX,sublimetext.com
