@@ -4,5 +4,5 @@ payload:
   - DST-PORT,22,PROXY
   # 追加speedtest一系列测速域名
   - DOMAIN-KEYWORD,speedtest,PROXY
-  # 追加leancloud非cn域名
-  - DOMAIN-KEYWORD,leancloud,PROXY
+  # 追加leancloud非cn域名（为了避免检测ip检测暂时关闭）
+  # - DOMAIN-KEYWORD,leancloud,PROXY
