@@ -5,4 +5,4 @@ payload:
   # 追加speedtest一系列测速域名
   - DOMAIN-KEYWORD,speedtest,PROXY
   # 追加leancloud非cn域名
-  - DOMAIN-KEYWORD,leancloud,PROXY
+  - DOMAIN-SUFFIX,leancloud.app,PROXY
