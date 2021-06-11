@@ -15,8 +15,8 @@ payload:
   - DOMAIN-SUFFIX,ooklaserver.net
   - DOMAIN-SUFFIX,speed.cloudflare.com
   # adguard
-  - DOMAIN-SUFFIX,local.adguard.org
-  - DOMAIN-SUFFIX,injections.adguard.org
+  # - DOMAIN-SUFFIX,local.adguard.org
+  # - DOMAIN-SUFFIX,injections.adguard.org
   # cryptomator
   - DOMAIN-KEYWORD,cryptomator
   # inoreader
